@@ -1,0 +1,43 @@
+
+body{
+	background-color: skyblue;
+}
+.menu-hamburguer{
+	height: 5vw;
+	width: 7vw;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+
+}
+.um{
+	height: 10px;
+	width: 100%;
+	background-color: black;
+	border-radius: 25%;
+	display: block;
+}
+.dois{
+	height: 10px;
+	width: 100%;
+	background-color: black;
+	border-radius: 25%;
+	display: block;
+}
+.treis{
+	height: 10px;
+	width: 100%;
+	background-color: black;
+	border-radius: 25%;
+	display: block;
+}
+nav{
+	display: block;
+	font-style: none;
+	display: flex;
+}
+li{
+	font-size: 35px;
+	display: block;
+
+}
